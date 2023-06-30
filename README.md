@@ -23,12 +23,12 @@ https://chat.openai.com/share/a5bbe554-57d6-4cd6-83dc-b8e370067737
 
 1. Clone this repository:
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/joncutrer/gznetview.git
    ```
 
 2. Navigate to the cloned repository:
    ```bash
-   cd path/to/your/project
+   cd gznetview
    ```
 
 3. Install the dependencies using poetry
