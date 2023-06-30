@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "gznetview"
+version = "0.1.0"
+description = ""
+authors = ["JC <joncutrer@gmail.com>"]
+readme = "README.md"
+packages = [{include = "gznetview", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+python-nmap = "^0.7.1"
+scapy = "^2.5.0"
+plotly = "^5.15.0"
+argparse = "^1.4.0"
+manuf = "^1.1.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
