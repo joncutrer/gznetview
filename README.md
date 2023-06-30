@@ -4,6 +4,10 @@ This script scans a specified network, discovers hosts, and collects information
 
 The ability to determine MAC addresses and Manufacturer is limited to scanning a locally attached LAN.  You cannot collect this information from a distant subnet.
 
+This code was developed with the assistance of Chat GPT-4 generative AI. You can read the conversation here.
+
+https://chat.openai.com/share/a5bbe554-57d6-4cd6-83dc-b8e370067737
+
 ## Dependencies
 
 - nmap
